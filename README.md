@@ -1,4 +1,4 @@
-# Duck-Address-workflow
+# Duck Address Workflow
 Alfred workflow that generates Private Addresses with the DuckDuckGo API:
 
 [Download workflow](google.com)
