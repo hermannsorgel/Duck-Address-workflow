@@ -3,9 +3,12 @@ Alfred workflow that generates email addresses with the DuckDuckGo Email Protect
 
 > DuckDuckGo Email Protection is a free email forwarding service that removes multiple types of hidden email trackers and lets you create unlimited unique private email addresses on the fly.
 
-Typically, a user has to install the DuckDuckGo browser extension in order to obtain a new protected address. This workflow eliminates the need for extensions:
+Typically, users need to have the DuckDuckGo extension installed on their web browser in order to receive a new protected address. This workflow helps to get a new address in any app:
+
 
 <img src="https://i.imgur.com/noxxUPV.gif" width="70%">
+
+
 
 [Download workflow](https://github.com/kkhrv/Duck-Address-workflow/raw/main/workflow/Duck%20Address.alfredworkflow)
 
