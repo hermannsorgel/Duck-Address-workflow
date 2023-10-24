@@ -5,7 +5,7 @@ Alfred workflow that generates email addresses with the DuckDuckGo Email Protect
 
 Typically, a user has to install the DuckDuckGo browser extension in order to obtain a new protected address. This workflow eliminates the need for extensions:
 
-![](https://i.imgur.com/rubBfHK.gif)
+![](https://i.imgur.com/noxxUPV.gif)
 
 [Download workflow](https://github.com/kkhrv/Duck-Address-workflow/raw/main/workflow/Duck%20Address.alfredworkflow)
 
