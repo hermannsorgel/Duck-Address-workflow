@@ -3,7 +3,7 @@ Alfred workflow that generates Private Addresses with the DuckDuckGo API:
 
 https://github.com/kkhrv/Duck-Address-workflow/assets/25165356/07e7bc72-c5c0-4987-9039-ffd304b66b58
 
-[Download workflow](workflow/Duck%20Address.alfredworkflow)
+[Download workflow](https://github.com/kkhrv/Duck-Address-workflow/raw/main/workflow/Duck%20Address.alfredworkflow)
 
 # Usage
 Workflow uses the DuckDuckGo API. Provide an API token to make it work:
