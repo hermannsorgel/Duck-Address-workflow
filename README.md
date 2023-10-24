@@ -1,14 +1,19 @@
-# Duck Address Workflow
+# The Duck Address Workflow
 Alfred workflow that generates Private Addresses with the DuckDuckGo API:
 
+https://github.com/kkhrv/Duck-Address-workflow/assets/25165356/07e7bc72-c5c0-4987-9039-ffd304b66b58
+
 [Download workflow](google.com)
+
 # Usage
-Workflows uses DuckDuckGo API. Provide API token to make it work:
+Workflow uses the DuckDuckGo API. Provide an API token to make it work:
 1. Follow the DuckDuckGo instructions to setup your Duck Address.
-2. On Autofill tab on the DuckDuckGo email protection page open your web browser's developer tools.
+2. On [the Autofill tab on the DuckDuckGo email protection page](https://duckduckgo.com/email/settings/autofill) open your web browser's developer tools.
 3. Click the Generate Private Duck Address button and view the Network tab on your developer tools window.
 4. Select the "Addresses" call for the API POST request. The item will look like this: authorization: Bearer <API token>.
-5. In workflow settings add token to 'Arg and Vars' object:
+5. In workflow settings, add the token to 'Arg and Vars' object:
+   
+![Arg and Vars](assets/insertToken.png)
 
 # Known issues
-In case of overuse DuckDuckGo may block token for about 24h. In this case API returns same Private Address every time.
+If a token is overused, DuckDuckGo may block it for a period of 24 hours. In this instance, the API consistently returns the same Private Address.
