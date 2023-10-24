@@ -19,8 +19,12 @@ Workflow uses the DuckDuckGo API. Provide an API token to make it work:
 3. Click the Generate Private Duck Address button and view the Network tab on your developer tools window.
 4. Select the "Addresses" call for the API POST request. The item will look like this: `authorization: Bearer <API token>`.
 5. In workflow settings, add the token to `Arg and Vars` object:
+
    
 ![Arg and Vars](assets/insertToken.png)
+
+
+
 
 # Known issues
 If a token is overused, DuckDuckGo may block it for a period of 24 hours. In this instance, the API consistently returns the same Private Address.
